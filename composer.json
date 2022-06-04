@@ -90,6 +90,7 @@
     "lint": "phpcs",
     "lint:fix": "phpcbf",
     "test": "pest",
-    "coverage": "XDEBUG_MODE=coverage pest --coverage --coverage-html=coverage"
+    "coverage": "XDEBUG_MODE=coverage pest --coverage --coverage-html=coverage",
+    "production": "composer install --no-dev --optimize-autoloader"
   }
 }

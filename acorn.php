@@ -9,6 +9,8 @@
  * Author URI:    https://roots.io
  * License:       MIT
  * License URI:   http://opensource.org/licenses/MIT
+ * GitHub Plugin URI: https://github.com/handmadeweb/roots-acorn
+ * Primary Branch: main
  */
 
 require_once __DIR__ . '/vendor/autoload.php';
